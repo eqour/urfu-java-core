@@ -1,6 +1,6 @@
 package ru.eqour.leetcode;
 
-public class Task1522 {
+public class Task543 {
 
     public int diameterOfBinaryTree(TreeNode root) {
         return diameter(root)[1];
