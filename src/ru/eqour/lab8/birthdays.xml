@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<birthdays>
+    <people>
+        <surname>Иванов</surname>
+        <name>Иван</name>
+        <patronymic>Иванович</patronymic>
+        <birthday>03.07.1999</birthday>
+    </people>
+    <people>
+        <surname>Петров</surname>
+        <name>Пётр</name>
+        <patronymic>Петрович</patronymic>
+        <birthday>14.01.2004</birthday>
+    </people>
+    <people>
+        <surname>Иванова</surname>
+        <name>Александра</name>
+        <patronymic>Николаевна</patronymic>
+        <birthday>06.10.1994</birthday>
+    </people>
+</birthdays>
